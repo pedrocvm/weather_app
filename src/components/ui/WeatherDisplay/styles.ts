@@ -60,9 +60,6 @@ export const SunriseAndSunsetWrapper = styled.div`
     color: ${theme.colors.white};
     font-size: ${theme.font.sizes.large};
     font-weight: ${theme.font.normal};
-    position: absolute;
-    bottom: ${theme.spacings.medium};
-    padding: 0 ${theme.spacings.large};
 
     > div {
       text-align: center;
