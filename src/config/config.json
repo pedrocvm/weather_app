@@ -1,0 +1,12 @@
+{
+  "WEATHER": {
+    "BASE_URL": "https://api.openweathermap.org/data/2.5/weather",
+    "API_KEY": "c91a4a84342e6228a04061699bd8feca",
+    "ICON": {
+      "BASE_URL": "http://openweathermap.org/img/wn"
+    }
+  },
+  "MAPS": {
+    "API_KEY": "AIzaSyBeUb9dASnlEko_N3RgJU8Tol1_SeqwGB0"
+  }
+}
