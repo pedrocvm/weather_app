@@ -9,9 +9,9 @@ export const Wrapper = styled.div`
 export const Name = styled.h2`
   ${({ theme }) => css`
     color: ${theme.colors.white};
-    font-size: 4rem;
+    font-size: 3rem;
     text-align: center;
-    padding: ${theme.spacings.xsmall} 0 ${theme.spacings.xsmall};
+    padding-top: ${theme.spacings.medium};
     font-weight: ${theme.font.bold};
   `}
 `;
@@ -35,7 +35,7 @@ export const WeatherDescription = styled.div`
 
 export const TemperatureDescription = styled.h2`
   ${({ theme }) => css`
-    font-size: 10rem;
+    font-size: 8rem;
     font-weight: ${theme.font.normal};
     text-align: center;
 
@@ -64,7 +64,7 @@ export const SunriseAndSunsetWrapper = styled.div`
     > div {
       text-align: center;
 
-      @media (max-width: 396px) {
+      @media (max-width: 315px) {
         width: 100%;
       }
     }
