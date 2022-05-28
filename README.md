@@ -28,6 +28,8 @@
 	</kbd>
 </p>
 
+<br/>
+<br/>
 <p>However, there is an Autocomplete input in which the user can enter any address of any city in the world.</p>
 <br/>
 
@@ -43,6 +45,8 @@
 	</kbd>
 </p>
 
+<br/>
+<br/>
 <p>When performing a query, a Load Spinner was added until the results of the request became available.</p>
 <br/>
 
@@ -52,6 +56,8 @@
 	</kbd>
 </p>
 
+<br/>
+<br/>
 <p>A Toggle Button has been added to perform unit conversion from Celsius to Fahrenheit and vice versa.</p>
 <br/>
 
