@@ -172,5 +172,5 @@ Made with ❤️ by Pedro Matos 👋🏽 Get in touch!
 ---
 ### :page_facing_up: **Licence**
 
-Copyright © 2021 [Pedro Matos](https://github.com/pedrocvm).<br />
+Copyright © 2022 [Pedro Matos](https://github.com/pedrocvm).<br />
 This project is licensed by [MIT](./LICENSE).
