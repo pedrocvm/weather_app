@@ -17,8 +17,8 @@
 
 ---
 ### :movie_camera: **Demo**
-The application consists of a weather query App.
-The default value is the city of Lisbon, PT
+<p>The application consists of a weather query App.</p>
+<p>The default value is the city of Lisbon, PT</p>
 
 <h4 align="center" style="font-size: 16px; font-weight: 600">Home with Initial Values</h4>
 <p align="center">
@@ -27,7 +27,7 @@ The default value is the city of Lisbon, PT
 	</kbd>
 </p>
 
-However, there is an Autocomplete input in which the user can enter any address of any city in the world.
+<p>However, there is an Autocomplete input in which the user can enter any address of any city in the world.</p?
 
 <p align="center">
 	<kbd>
@@ -41,7 +41,7 @@ However, there is an Autocomplete input in which the user can enter any address 
 	</kbd>
 </p>
 
-When performing a query, a Load Spinner was added until the results of the request became available.
+<p>When performing a query, a Load Spinner was added until the results of the request became available.</p>
 
 <p align="center">
 	<kbd>
@@ -49,7 +49,7 @@ When performing a query, a Load Spinner was added until the results of the reque
 	</kbd>
 </p>
 
-A Toggle Button has been added to perform unit conversion from Celsius to Fahrenheit and vice versa.
+<p>A Toggle Button has been added to perform unit conversion from Celsius to Fahrenheit and vice versa.</p>
 
 <p align="center">
 	<kbd>
