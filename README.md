@@ -5,14 +5,14 @@
 <p>
   
 <p align="center">
- <a href="#computer-sobre">Demo</a> •
-  <a href="#computer-sobre">About</a> •
- <a href="#memo-roteiro">Roadmap</a> •
- <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#dvd-executar-o-projeto">Running</a> •
- <a href="#hammer-tecnologias">Technologies</a> •
- <a href="#boy-autor">Author</a> •
- <a href="#page_facing_up-licença">Licence</a>
+ <a href="#movie_camera-demo">Demo</a> •
+  <a href="#computer-about">About</a> •
+ <a href="#memo-roadmap">Roadmap</a> •
+ <a href="#triangular_ruler-status">Status</a> •
+ <a href="#dvd-running">Running</a> •
+ <a href="#hammer-technologies">Technologies</a> •
+ <a href="#boy-author">Author</a> •
+ <a href="#page_facing_up-licence">Licence</a>
 </p>
 
 ---
