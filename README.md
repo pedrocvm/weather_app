@@ -33,11 +33,15 @@
 <p>However, there is an Autocomplete input in which the user can enter any address of any city in the world.</p>
 <br/>
 
+<h4 align="center" style="font-size: 16px; font-weight: 600">Entering data from a random address in Input Autocomplete</h4>
 <p align="center">
 	<kbd>
 		<img width="350" style="border-radius: 5px" alt="App Demo - Query 1" src="https://i.ibb.co/HtzxJkJ/weather-app-6.png">
 	</kbd>
 </p>
+
+<br/>
+<br/>
 
 <p align="center">
 	<kbd>
@@ -47,7 +51,10 @@
 
 <br/>
 <br/>
+
 <p>When performing a query, a Load Spinner was added until the results of the request became available.</p>
+
+<br/>
 <br/>
 
 <p align="center">
@@ -58,7 +65,10 @@
 
 <br/>
 <br/>
+
 <p>A Toggle Button has been added to perform unit conversion from Celsius to Fahrenheit and vice versa.</p>
+
+<br/>
 <br/>
 
 <p align="center">
