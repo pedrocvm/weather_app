@@ -31,13 +31,13 @@ However, there is an Autocomplete input in which the user can enter any address 
 
 <p align="center">
 	<kbd>
-		<img width="650" style="border-radius: 5px" alt="App Demo - Query 1" src="https://i.ibb.co/HtzxJkJ/weather-app-6.png">
+		<img width="350" style="border-radius: 5px" alt="App Demo - Query 1" src="https://i.ibb.co/HtzxJkJ/weather-app-6.png">
 	</kbd>
 </p>
 
 <p align="center">
 	<kbd>
-		<img width="650" style="border-radius: 5px" alt="App Demo - Query 3" src="https://i.ibb.co/RCtb3jj/weather-app-3.png">
+		<img width="350" style="border-radius: 5px" alt="App Demo - Query 3" src="https://i.ibb.co/RCtb3jj/weather-app-3.png">
 	</kbd>
 </p>
 
@@ -45,7 +45,7 @@ When performing a query, a Load Spinner was added until the results of the reque
 
 <p align="center">
 	<kbd>
-		<img width="650" style="border-radius: 5px" alt="App Demo - Load Spinner" src="https://i.ibb.co/m0kddYc/weather-app-5.png">
+		<img width="350" style="border-radius: 5px" alt="App Demo - Load Spinner" src="https://i.ibb.co/m0kddYc/weather-app-5.png">
 	</kbd>
 </p>
 
@@ -53,7 +53,7 @@ A Toggle Button has been added to perform unit conversion from Celsius to Fahren
 
 <p align="center">
 	<kbd>
-		<img width="650" style="border-radius: 5px" alt="App Demo - Query 2" src="https://i.ibb.co/fv7D5Pp/weather-app-2.png">
+		<img width="350" style="border-radius: 5px" alt="App Demo - Query 2" src="https://i.ibb.co/fv7D5Pp/weather-app-2.png">
 	</kbd>
 </p>
 
