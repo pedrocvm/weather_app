@@ -113,7 +113,7 @@ The following APIs were used as support:
 ### :dvd: **Running**
 ```bash
 # Clone this repository
-$ git clone https://github.com/pedrocvm/teste_triyo
+$ git clone https://github.com/pedrocvm/weather_app
 
 # Access the project folder in terminal/cmd
 $ cd weather_app
