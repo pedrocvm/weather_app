@@ -29,7 +29,7 @@
 </p>
 
 <br/>
-
+<br/>
 <p>However, there is an Autocomplete input in which the user can enter any address of any city in the world.</p>
 
 <br/>
@@ -40,7 +40,7 @@
 		<img width="350" style="border-radius: 5px" alt="App Demo - Query 1" src="https://i.ibb.co/HtzxJkJ/weather-app-6.png">
 	</kbd>
 </p>
-
+<br/>
 <br/>
 
 <h4 align="center" style="font-size: 16px; font-weight: 600">Query Result</h4>
@@ -49,11 +49,11 @@
 		<img width="350" style="border-radius: 5px" alt="App Demo - Query 3" src="https://i.ibb.co/BGJb5rp/weather-app-8.png">
 	</kbd>
 </p>
-
+<br/>
 <br/>
 
 <p>When performing a query, a Load Spinner was added until the results of the request became available.</p>
-
+<br/>
 <br/>
 
 <h4 align="center" style="font-size: 16px; font-weight: 600">Load Spinner waiting for request results</h4>
@@ -62,11 +62,11 @@
 		<img width="350" style="border-radius: 5px" alt="App Demo - Load Spinner" src="https://i.ibb.co/m0kddYc/weather-app-5.png">
 	</kbd>
 </p>
-
+<br/>
 <br/>
 
 <p>A Toggle Button has been added to perform unit conversion from Celsius to Fahrenheit and vice versa.</p>
-
+<br/>
 <br/>
 
 <h4 align="center" style="font-size: 16px; font-weight: 600">Temperature being displayed in Fahrenheit after Toggle</h4>
@@ -75,9 +75,9 @@
 		<img width="350" style="border-radius: 5px" alt="App Demo - Query 2" src="https://i.ibb.co/fv7D5Pp/weather-app-2.png">
 	</kbd>
 </p>
+<br/>
+<br/>
 
-<br/>
-<br/>
 ---
 ## :computer: About
 Project started on 05/24/2022.
