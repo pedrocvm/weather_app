@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pedrocvm">
-    <img align="center" alt="Made by Pedro Matos" src="https://img.shields.io/badge/feito%20por Pedro Matos-%237519C1?style=for-the-badge">
+    <img align="center" alt="Made by Pedro Matos" src="https://img.shields.io/badge/made%20by Pedro Matos-%237519C1?style=for-the-badge">
   </a>
 <p>
   
