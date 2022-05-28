@@ -45,7 +45,7 @@
 
 <p align="center">
 	<kbd>
-		<img width="350" style="border-radius: 5px" alt="App Demo - Query 3" src="https://i.ibb.co/RCtb3jj/weather-app-3.png">
+		<img width="350" style="border-radius: 5px" alt="App Demo - Query 3" src="https://i.ibb.co/BGJb5rp/weather-app-8.png">
 	</kbd>
 </p>
 
