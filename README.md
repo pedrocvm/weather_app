@@ -54,7 +54,6 @@
 
 <p>When performing a query, a Load Spinner was added until the results of the request became available.</p>
 <br/>
-<br/>
 
 <h4 align="center" style="font-size: 16px; font-weight: 600">Load Spinner waiting for request results</h4>
 <p align="center">
@@ -67,7 +66,6 @@
 
 <p>A Toggle Button has been added to perform unit conversion from Celsius to Fahrenheit and vice versa.</p>
 <br/>
-<br/>
 
 <h4 align="center" style="font-size: 16px; font-weight: 600">Temperature being displayed in Fahrenheit after Toggle</h4>
 <p align="center">
@@ -75,8 +73,6 @@
 		<img width="350" style="border-radius: 5px" alt="App Demo - Query 2" src="https://i.ibb.co/fv7D5Pp/weather-app-2.png">
 	</kbd>
 </p>
-<br/>
-<br/>
 
 ---
 ## :computer: About
