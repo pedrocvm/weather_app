@@ -148,6 +148,9 @@ The following tools were used in the construction of the project:
 - [Jest](https://jestjs.io/pt-BR/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
+### Tools
+- [Mobile Simulator Chrome Extension](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk)
+
 ---
 ### :boy: **Author**
 
