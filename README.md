@@ -23,7 +23,7 @@ The default value is the city of Lisbon, PT
 <h4 align="center" style="font-size: 16px; font-weight: 600">Home with Initial Values</h4>
 <p align="center">
 	<kbd>
-		<img width="650" style="border-radius: 5px" alt="App Demo - Initial Values" src="https://i.ibb.co/F0kyqtQ/weather-app-1.png">
+		<img width="350" style="border-radius: 5px" alt="App Demo - Initial Values" src="https://i.ibb.co/F0kyqtQ/weather-app-1.png">
 	</kbd>
 </p>
 
