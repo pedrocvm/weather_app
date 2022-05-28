@@ -30,7 +30,10 @@
 
 <br/>
 <br/>
+
 <p>However, there is an Autocomplete input in which the user can enter any address of any city in the world.</p>
+
+<br/>
 <br/>
 
 <h4 align="center" style="font-size: 16px; font-weight: 600">Entering data from a random address in Input Autocomplete</h4>
@@ -43,6 +46,7 @@
 <br/>
 <br/>
 
+<h4 align="center" style="font-size: 16px; font-weight: 600">Query Result</h4>
 <p align="center">
 	<kbd>
 		<img width="350" style="border-radius: 5px" alt="App Demo - Query 3" src="https://i.ibb.co/BGJb5rp/weather-app-8.png">
@@ -56,6 +60,7 @@
 
 <br/>
 <br/>
+
 <h4 align="center" style="font-size: 16px; font-weight: 600">Load Spinner waiting for request results</h4>
 <p align="center">
 	<kbd>
@@ -70,6 +75,7 @@
 
 <br/>
 <br/>
+
 <h4 align="center" style="font-size: 16px; font-weight: 600">Temperature being displayed in Fahrenheit after Toggle</h4>
 <p align="center">
 	<kbd>
@@ -77,6 +83,8 @@
 	</kbd>
 </p>
 
+<br/>
+<br/>
 ---
 ## :computer: About
 Project started on 05/24/2022.
