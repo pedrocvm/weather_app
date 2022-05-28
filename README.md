@@ -73,7 +73,7 @@
 <h4 align="center" style="font-size: 16px; font-weight: 600">Temperature being displayed in Fahrenheit after Toggle</h4>
 <p align="center">
 	<kbd>
-		<img width="350" style="border-radius: 5px" alt="App Demo - Query 2" src="https://i.ibb.co/fv7D5Pp/weather-app-2.png">
+		<img width="350" style="border-radius: 5px" alt="App Demo - Query 2" src="https://i.ibb.co/9y0VLNH/weather-app-2.png">
 	</kbd>
 </p>
 
