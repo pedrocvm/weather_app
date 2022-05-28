@@ -103,7 +103,7 @@ The following APIs were used as support:
 ### :triangular_ruler: **Status**
 
 <h4 align="center"> 
-	👨‍🏫 Advertio Challenge v1.0 done!
+	👨‍🏫 Weather App v1.0 done!
 </h4>
 
 ---
