@@ -7,9 +7,9 @@
 <p align="center">
  <a href="#computer-sobre">Demo</a> •
   <a href="#computer-sobre">About</a> •
- <a href="#memo-roteiro">Guide</a> •
+ <a href="#memo-roteiro">Roadmap</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
- <a href="#dvd-executar-o-projeto">Executar</a> •
+ <a href="#dvd-executar-o-projeto">Running</a> •
  <a href="#hammer-tecnologias">Technologies</a> •
  <a href="#boy-autor">Author</a> •
  <a href="#page_facing_up-licença">Licence</a>
@@ -83,14 +83,14 @@ The following APIs were used as support:
 </details>
 
 ---
-### :triangular_ruler: **Project Status**
+### :triangular_ruler: **Status**
 
 <h4 align="center"> 
 	👨‍🏫 Advertio Challenge v1.0 done!
 </h4>
 
 ---
-### :dvd: **Running the App**
+### :dvd: **Running**
 ```bash
 # Clone this repository
 $ git clone https://github.com/pedrocvm/teste_triyo
