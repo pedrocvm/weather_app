@@ -18,7 +18,7 @@
 ---
 ### :movie_camera: **Demo**
 <p>The application consists of a weather query App.</p>
-<p>The default value is the city of Lisbon, PT</p>
+<p>The default value is the city of Lisbon, PT.</p>
 <br/>
 
 <h4 align="center" style="font-size: 16px; font-weight: 600">Home with Initial Values</h4>
@@ -43,15 +43,6 @@
 <br/>
 <br/>
 
-<h4 align="center" style="font-size: 16px; font-weight: 600">Query Result</h4>
-<p align="center">
-	<kbd>
-		<img width="350" style="border-radius: 5px" alt="App Demo - Query 3" src="https://i.ibb.co/BGJb5rp/weather-app-8.png">
-	</kbd>
-</p>
-<br/>
-<br/>
-
 <p>When performing a query, a Load Spinner was added until the results of the request became available.</p>
 <br/>
 
@@ -59,6 +50,18 @@
 <p align="center">
 	<kbd>
 		<img width="350" style="border-radius: 5px" alt="App Demo - Load Spinner" src="https://i.ibb.co/v1sBdYS/weather-app-5.png">
+	</kbd>
+</p>
+<br/>
+<br/>
+
+<p>Once the request response data is received, the Load Spinner is hidden and the data display is shown.</p>
+<br/>
+
+<h4 align="center" style="font-size: 16px; font-weight: 600">Query Result</h4>
+<p align="center">
+	<kbd>
+		<img width="350" style="border-radius: 5px" alt="App Demo - Query 3" src="https://i.ibb.co/BGJb5rp/weather-app-8.png">
 	</kbd>
 </p>
 <br/>
